@@ -105,8 +105,8 @@ defaultSettings = {
         'type': bool
     },
     'serpentVersion': {
-        'default': '2.1.31',
-        'options': ['2.1.29', '2.1.30', '2.1.31', '2.1.32', "2.2.0", "2.2.1"],
+        'default': '2.2.2',
+        'options': ['2.1.29', '2.1.30', '2.1.31', '2.1.32', "2.2.0", "2.2.1", "2.2.2", "2.2.3"],
         # When adding new version of Serpent, add / update
         # MapStrVersions with variables that indicate the start of specific
         # data blocks / time parameters like burnup
